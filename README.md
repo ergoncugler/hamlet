@@ -149,3 +149,11 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 ### How to Cite it:
 
 **SILVA, Ergon Cugler de Moraes. ‘To be, or not to be, that is the Question’: Exploring the ‘pseudorandom’ generation of texts to write Hamlet from the perspective of the ‘Infinite Monkey Theorem’. (feb) 2024. Avaliable at: <a>https://github.com/ergoncugler/hamlet/<a>.**
+
+___
+
+## License
+
+The materials in this repository are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You are free to use and adapt them, provided you give appropriate credit. If this work supports your research, please cite it.
+
+Developed by [Ergon Cugler](https://ergoncugler.com).
